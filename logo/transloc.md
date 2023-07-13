@@ -19,3 +19,5 @@ Logo + Text
 - [#d3e0d9](https://color-hex.org/color/d3e0d9) shade of nav bar
 
 - [#939c97](https://color-hex.org/color/939c97) grey
+
+- background-color:[#94C17D](https://color-hex.org/color/94c17d)header footer
